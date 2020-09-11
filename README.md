@@ -32,12 +32,12 @@ Este projeto foi desenvolvido no curso Fluter Apps: Álcool ou Gasolina, do [Bal
 
 Neste projeto de estudo foram vistos os seguintes conteúdos:
 
-- Criação de widgets e inteface com flutter
+- Criação de widgets e interfaces com flutter
 - Organização e componentização de widgets
-- Márcaras e formulários simples
+- Organização de assets, utilizando fontes e imagens
+- Utilização de formulários simples e máscaras
+- Gerenciamento de estados (programação reativa com Stateful Widgets)
 - Animação com cores
-- Organizar assets: utilizar fontes e imagens
-- Gerenciar estados (programação reativa)
   <br/>
   <br/>
 

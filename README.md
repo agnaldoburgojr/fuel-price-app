@@ -18,13 +18,15 @@
   <a href="#large_blue_diamond-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#large_blue_diamond-como-utilizar">Como instalar</a>
 </p>
-<br>
+<br/>
 
 ## :large_blue_diamond: Sobre
 
 A ideia da aplicação é mostrar para o usuário, após a inserção dos preços de gasolina e álcool, qual o combustível que compensa abastecer.
 
 Este projeto foi desenvolvido no curso Fluter Apps: Álcool ou Gasolina, do [Balta.io](https://balta.io/).
+<br/>
+<br/>
 
 ## :large_blue_diamond: Conteudo estudado
 
@@ -36,6 +38,8 @@ Neste projeto de estudo foram vistos os seguintes conteúdos:
 - Animação com cores
 - Organizar assets: utilizar fontes e imagens
 - Gerenciar estados (programação reativa)
+  <br/>
+  <br/>
 
 ## :large_blue_diamond: Tecnologias
 
@@ -44,10 +48,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 - [Flutter](https://flutter.dev/)
 - [Flutter Masked Text](https://github.com/benhurott/flutter-masked-text)
 - [VS Code][vc]
+  <br/>
+  <br/>
 
 ## :large_blue_diamond: Como utilizar
 
-Para rodar a aplicação você precisa ter o Git [Git](https://git-scm.com) e [Flutter] na sua máquina. Você precisará também de um emulador para Android ou IOS.
+Para rodar a aplicação você precisa ter o [Git](https://git-scm.com) e [Flutter](https://flutter.dev/) na sua máquina. Você precisará também de um emulador para Android ou IOS.
 Como sugestão, utilize o emulador Android do [Android Studio](https://developer.android.com/studio) ou o [Genymotion](https://www.genymotion.com/).
 
 Abra seu emulador e siga os comandos abaixo em seu terminal:
@@ -63,10 +69,15 @@ $ cd fuelPrice
 $ flutter run
 ```
 
+<br/>
+<br/>
+
 ## :large_blue_diamond: Licença
 
 Este projeto possui Licença MIT. Olhe [LICENSE](https://github.com/agnaldoburgojr/fuel-price-app/blob/master/LICENCE) para mais informações.
 
+<br/>
+<br/>
 ---
 
 Feito com ♥ por Agnaldo Burgo Junior :wave: [Get in touch!](https://www.linkedin.com/in/agnaldo-burgo-junior/)

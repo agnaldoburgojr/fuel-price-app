@@ -1,8 +1,7 @@
 <div align="center" >
   <img alt="Project demo" src="./github/flutter.png" width='80px'>
 </div>
-<h1 align="center">
-    <br>
+<h1 align="center" >
     Preço do Combustível
 </h1>
 
@@ -15,11 +14,12 @@
 
 <p align="center">
   <a href="#large_blue_diamond-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#large_blue_diamond-conteudo-estudado">Conteúdo estudado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#large_blue_diamond-conteúdo-estudado">Conteúdo estudado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#large_blue_diamond-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#large_blue_diamond-como-utilizar">Como instalar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#large_blue_diamond-sobre-licenca">Licença</a>
+  <a href="#large_blue_diamond-sobre-licença">Licença</a>
 </p>
+<br>
 
 ## :large_blue_diamond: Sobre
 
@@ -49,7 +49,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 ## :large_blue_diamond: Como utilizar
 
 Para rodar a aplicação você precisa ter o Git [Git](https://git-scm.com) e [Flutter] na sua máquina. Você precisará também de um emulador para Android ou IOS.
-Como sugestão, utilize o emulador do [Android Visual Studio]() ou o [Genymotion]().
+Como sugestão, utilize o emulador Android do [Android Studio](https://developer.android.com/studio) ou o [Genymotion](https://www.genymotion.com/).
 
 Abra seu emulador e siga os comandos abaixo em seu terminal:
 
@@ -66,7 +66,7 @@ $ flutter run
 
 ## :large_blue_diamond: Licença
 
-Este projeto possui Licença MIT. Olhe [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) para mais informações.
+Este projeto possui Licença MIT. Olhe [LICENSE](https://github.com/agnaldoburgojr/fuel-price-app/blob/master/LICENCE) para mais informações.
 
 ---
 

@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="#large_blue_diamond-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#large_blue_diamond-conteúdo-estudado">Conteúdo estudado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#large_blue_diamond-conteudo-estudado">Conteúdo estudado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#large_blue_diamond-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#large_blue_diamond-como-utilizar">Como instalar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#large_blue_diamond-sobre-licença">Licença</a>
+  <a href="#large_blue_diamond-licenca">Licença</a>
 </p>
 <br>
 
@@ -27,7 +27,7 @@ A ideia da aplicação é mostrar para o usuário, após a inserção dos preço
 
 Este projeto foi desenvolvido no curso Fluter Apps: Álcool ou Gasolina, do [Balta.io](https://balta.io/).
 
-## :large_blue_diamond: Conteúdo estudado
+## :large_blue_diamond: Conteudo estudado
 
 Neste projeto de estudo foram vistos os seguintes conteúdos:
 

@@ -1,16 +1,75 @@
-# aog
+<div align="center" >
+  <img alt="Project demo" src="./github/flutter.png" width='80px'>
+</div>
+<h1 align="center">
+    <br>
+    Preço do Combustível
+</h1>
 
-A new Flutter project.
+<h4 align="center">
+  Descubra qual combustível compensa abastecer seu veículo: gasolina ou álcool!
+</h4>
+<div align="center" >
+  <img alt="Project demo" src="./github/aog2.gif" width='300px'>
+</div>
 
-## Getting Started
+<p align="center">
+  <a href="#large_blue_diamond-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#large_blue_diamond-conteudo-estudado">Conteúdo estudado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#large_blue_diamond-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#large_blue_diamond-como-utilizar">Como instalar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#large_blue_diamond-sobre-licenca">Licença</a>
+</p>
 
-This project is a starting point for a Flutter application.
+## :large_blue_diamond: Sobre
 
-A few resources to get you started if this is your first Flutter project:
+A ideia da aplicação é mostrar para o usuário, após a inserção dos preços de gasolina e álcool, qual o combustível que compensa abastecer.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Este projeto foi desenvolvido no curso Fluter Apps: Álcool ou Gasolina, do [Balta.io](https://balta.io/).
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :large_blue_diamond: Conteúdo estudado
+
+Neste projeto de estudo foram vistos os seguintes conteúdos:
+
+- Criação de widgets e inteface com flutter
+- Organização e componentização de widgets
+- Márcaras e formulários simples
+- Animação com cores
+- Organizar assets: utilizar fontes e imagens
+- Gerenciar estados (programação reativa)
+
+## :large_blue_diamond: Tecnologias
+
+Este projeto foi desenvolvido com as seguintes tecnologias
+
+- [Flutter](https://flutter.dev/)
+- [Flutter Masked Text](https://github.com/benhurott/flutter-masked-text)
+- [VS Code][vc]
+
+## :large_blue_diamond: Como utilizar
+
+Para rodar a aplicação você precisa ter o Git [Git](https://git-scm.com) e [Flutter] na sua máquina. Você precisará também de um emulador para Android ou IOS.
+Como sugestão, utilize o emulador do [Android Visual Studio]() ou o [Genymotion]().
+
+Abra seu emulador e siga os comandos abaixo em seu terminal:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/agnaldoburgojr/fuel-price-app fuelPrice
+
+# Go into the repository
+$ cd fuelPrice
+
+# Run the app
+$ flutter run
+```
+
+## :large_blue_diamond: Licença
+
+Este projeto possui Licença MIT. Olhe [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) para mais informações.
+
+---
+
+Feito com ♥ por Agnaldo Burgo Junior :wave: [Get in touch!](https://www.linkedin.com/in/agnaldo-burgo-junior/)
+
+[vc]: https://code.visualstudio.com/
